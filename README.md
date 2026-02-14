@@ -1,4 +1,8 @@
-## Hi there 👋
+## oh ello tere
+
+I’m jhu and I code. I’m only posting things written in BASIC here because idfk what to do.
+
+making a jailbreak for ios 17.0.1-26.3
 
 <!--
 **jhu7600codes/jhu7600codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
