@@ -4,6 +4,8 @@ I’m jhu and I code. I’m only posting things written in BASIC here because id
 
 making a jailbreak for ios 17.0.1-26.3
 
+typatone alphabet: https://typatone.com/m/5770123663114240
+
 <!--
 **jhu7600codes/jhu7600codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
